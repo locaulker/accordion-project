@@ -1,4 +1,4 @@
-import SingleQuestion from "./src/SingleQuestion"
+import SingleQuestion from "./SingleQuestion"
 
 const Questions = ({ questions }) => {
   return (
